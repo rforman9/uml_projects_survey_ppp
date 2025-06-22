@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<Animal>Rat</Animal>
+<Attributes>People born in the year of the Rat are imaginative, charming and very generous towards their loved ones. Rats are said to be aggressive, ambitious, distrustful, power-seeking and honest. They have a tendency to be hot-tempered and overly critical. The most suitable occupations for Rats are salesperson, critic or writer.</Attributes>
+<Keyword>Creativity</Keyword>
+<LeastCompatible>Horse</LeastCompatible>
+<MostCompatible>Dragon,Monkey</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Ox</Animal>
+<Attributes>Another of the powerful Chinese Zodiac signs, the Ox is steadfast, solid, a goal-oriented leader, detail-oriented, hard-working, stubborn, serious and introverted but can feel lonely and insecure. Takes comfort in friends and family and is a reliable, protective and strong companion.  The best careers for Oxen are surgeon, general or hairdresser.</Attributes>
+<Keyword>Stability</Keyword>
+<LeastCompatible>Sheep</LeastCompatible>
+<MostCompatible>Snake,Rooster</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Tiger</Animal>
+<Attributes>Tigers are generally sensitive, aggressive, unpredictable, charming, emotional and brave. They like taking risks and leading a carefree life. Tigers are good leaders, explorers, car racers or bullfighters.</Attributes>
+<Keyword>Authority</Keyword>
+<LeastCompatible>Monkey</LeastCompatible>
+<MostCompatible>Horse,Dog</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Rabbit</Animal>
+<Attributes>People born in the year of the Rabbit are friendly, talented and conscientious. Rabbits appreciate tranquility and security, and have a very pleasant disposition. Rabbits may have a tendency to be too emotional and superficial. They avoid conflicts and are afraid of becoming deeply involved in a relationship. Rabbits are conservative and careful in their actions, and they do not like taking risks, which makes them excellent business people. Other suitable professions are lawyer, diplomat or actor.</Attributes>
+<Keyword>Compassion</Keyword>
+<LeastCompatible>Rooster</LeastCompatible>
+<MostCompatible>Sheep,Pig</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Dragon</Animal>
+<Attributes>Dragons are often intelligent, talented, domineering, loud, cocky and capricious, but also popular and successful. They are enthusiastic people who are full of life. Dragons often seem outgoing, but are in reality very tender-hearted. The best professions for Dragons are artist, priest, politician or leader.</Attributes>
+<Keyword>Magic</Keyword>
+<LeastCompatible>Dog</LeastCompatible>
+<MostCompatible>Monkey,Rat</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Snake</Animal>
+<Attributes>Those born under the Chinese Zodiac sign of the Snake are seductive, gregarious, introverted, generous, charming, good with money, analytical, insecure, jealous, slightly dangerous, smart, they rely on gut feelings, are hard-working and intelligent.  Best professions are teacher, philosopher, writer or psychiatrist. </Attributes>
+<Keyword>Spirituality</Keyword>
+<LeastCompatible>Pig</LeastCompatible>
+<MostCompatible>Rooster,Ox</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Horse</Animal>
+<Attributes>Those born under the Chinese Zodiac sign of the Horse love to roam free. They’re energetic, self-reliant, money-wise, and they enjoy traveling, love and intimacy. They’re great at seducing, sharp-witted, impatient and sometimes seen as a drifter.  The best occupations for Horses are adventurer, poet, politician, scientist.</Attributes>
+<Keyword>Fellowship</Keyword>
+<LeastCompatible>Rat</LeastCompatible>
+<MostCompatible>Dog,Tiger</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Goat</Animal>
+<Attributes>People born in the year of the Goat are creative, artistic, passionate, elegant, warm-hearted, charming and honest. On the flip side they can also be pessimistic, shy, unorganized and fragile. They are easy-going, easy to complain and susceptible to stress, but also good problem solvers. The best occupations for Goats are actor and gardener.</Attributes>
+<Keyword>Family</Keyword>
+<LeastCompatible>Ox</LeastCompatible>
+<MostCompatible>Rabbit,Pig</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Monkey</Animal>
+<Attributes>Monkey people are intelligent, resourceful and entertaining, but also unpredictable and easily discouraged. Thanks to their extraordinary and magnetic personalities, Monkeys have a large circle of friends and they are well-liked by everyone. But are they reliable? Monkeys can sometimes be opportunistic and distrusting of others. Monkeys can succeed in any profession.</Attributes>
+<Keyword>Skill</Keyword>
+<LeastCompatible>Tiger</LeastCompatible>
+<MostCompatible>Dragon,Rat</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Rooster</Animal>
+<Attributes>People born in the year of the Rooster are hard-working, courageous, smart, arrogant, reckless, egoistic and eccentric. They have a hunger for knowledge, are enthusiastic about their work and are strong decision-makers. Roosters are skillful in their work and attentive to details, so much so that they can be considered boastful by others. The best professions for Roosters are restaurant manager, writer, soldier or world-traveler.</Attributes>
+<Keyword>Commerce</Keyword>
+<LeastCompatible>Rabbit</LeastCompatible>
+<MostCompatible>Ox,Snake</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Dog</Animal>
+<Attributes>Dogs are calm, intelligent, honest, generous, persistent, loyal and true to those they hold dear. Dogs are good listeners, enthusiastic, but also cynical and they can easily be overcome by anxiety. Dogs are constant worriers, are sharp-tongued and have a tendency to find flaws in everything, which makes life sometimes hard for Dogs. But, Dogs are successful people by birthright. Dogs make excellent business people, activists, teachers and even secret agents.</Attributes>
+<Keyword>Property</Keyword>
+<LeastCompatible>Dragon</LeastCompatible>
+<MostCompatible>Tiger,Horse</MostCompatible>
+</ROW>
+<ROW>
+<Animal>Pig</Animal>
+<Attributes>People born in the year of the Pig are generally honest, reliable, devoted, tolerant, shy, affectionate, kind and impulsive, but they have a short fuse! Pigs make the perfect partners and are intellectual and very persistent when trying to reach a goal. On the other hand, they can be very naive. Pigs have a hunger for knowledge that helps pave their way to success, but their materialistic ambitions often make them frustrated. Pigs can devote entire their lives to a good cause. Pigs are successful in the fields of finance, entertainment or law.</Attributes>
+<Keyword>Home</Keyword>
+<LeastCompatible>Snake</LeastCompatible>
+<MostCompatible>Rabbit,Sheep</MostCompatible>
+</ROW>
+</ROWSET>
